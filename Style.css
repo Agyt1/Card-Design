@@ -1,0 +1,85 @@
+h1.T {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: roboto;
+}
+
+div {
+    border-radius: 25px;
+}
+
+div.Top {
+    display: flex;
+    justify-content: center;
+}
+
+div.n {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-style: groove;
+    height: 250px;
+    width: 1625px;
+}
+
+div.bottom {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+div.bottom-Left {
+    border-style: groove;
+    height: 250x;
+    width: 750px;
+}
+
+div.bottom-right {
+    border-style: groove;
+    height: 250x;
+    width: 750px;
+
+}
+
+p {
+    color: rgb(78, 233, 78);
+    display: flex;
+    align-self: last baseline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p:hover {
+    cursor: pointer;
+    color: rgb(55, 177, 55);
+}
+
+li.Brown::marker {
+    color: brown;
+}
+
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li.Peach::marker {
+    color: palegoldenrod;
+}
+
+li::marker {
+    font-size: 25px;
+}
+
+div.A {
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+}
+
+div.B {
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+}
